@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohaned
 - 👀 I’m interested in Content writing
 - 🌱 I’m currently learning SEO Effective Content Writing
-- 💞️ I’m working at <a href="https://arabdailypress.com/" title="موقع العرب دايلي بريس">Faharas.net</a>
+- 💞️ I’m working at <a href="https://arabdailypress.com/" title="موقع العرب دايلي بريس</a>
 - 🌍 Please Visit My profile <a href="https://arabdailypress.com/health/" title="your name">أخبار الصحة</a>
 - ✨ <a href="https://arabdailypress.com/iraq/" title="post title">أخبار العراق</a>
 - 🚀 <a href="https://arabdailypress.com/saudi/" title="post title">أخبار السعودية</a>
